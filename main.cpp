@@ -5,7 +5,7 @@ using namespace std;
 //------------------------DEFINE------------------------//
 #define MEMORY_ERROR 2
 #define FILE_ERROR 3
-#define path R"(C:\Users\Kurai\Desktop\0\Proga\Lists3\relations.txt)"
+#define path R"(...\Lists3\relations.txt)"
 //------------------------STRUCT------------------------//
 struct bPointer;
 struct object{
